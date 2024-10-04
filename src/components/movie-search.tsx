@@ -3,7 +3,7 @@
 import { useState, useEffect, ChangeEvent } from "react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { CalendarIcon, Search, StarIcon } from "lucide-react";
+import { CalendarIcon, StarIcon } from "lucide-react";
 import Image from "next/image";
 import ClipLoader from "react-spinners/ClipLoader";
 
